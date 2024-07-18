@@ -1,2 +1,2 @@
-nvidia/cuda:12.1.0-runtime-ubuntu22.04
-nvidia/cuda:12.4.1-devel-ubuntu20.04
+centos:7
+centos:8
