@@ -1,2 +1,2 @@
-centos:7
-centos:8
+docker.io/nvidia/cuda:10.1-devel-centos7
+docker.io/thomassong/vcuda:1.0.4
