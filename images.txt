@@ -1,3 +1,2 @@
-ubuntu
-ubuntu:22.04
-ubuntu:20.04
+nvidia/cuda:12.1.0-runtime-ubuntu22.04
+nvidia/cuda:12.4.1-devel-ubuntu20.04
